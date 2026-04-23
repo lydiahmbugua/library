@@ -16,4 +16,9 @@ This project was completed as part of The Odin Project curriculum.
 - **Build Tools:** Git
 - **Design:** Vanilla CSS
 
+## Fun Fact
+The records are actually very real so I'd definitely give a review on the displayed titles if asked. 
+Working on adding the rest of the titles through Javascript logic. Do you think I can get to 100 books before 2027?
+
+
 
