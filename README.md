@@ -4,7 +4,7 @@ A responsive web application designed to manage a personal book collection. User
 This project was completed as part of The Odin Project curriculum.
 
 ## 🚀 Live Demo
-[Insert link to your deployed site, e.g., GitHub Pages or Vercel]
+Still a work in progress.
 
 ## 📋 Features
 - **Book Management:** Add new books with title, author, number of pages, and read status via a modal form.
