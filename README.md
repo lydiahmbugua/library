@@ -4,8 +4,7 @@ A responsive web application designed to manage a personal book collection. User
 This project was completed as part of The Odin Project curriculum.
 
 ## 🚀 Live Demo
-Still a work in progress.
-
+[https://lydiahmbugua.github.io/library/]
 ## 📋 Features
 - **Book Management:** Add new books with title, author, number of pages, and read status via a modal form.
 - **Dynamic Updates:** Instant updates to the library list without page reloads.
