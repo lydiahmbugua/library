@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     background: pink;
     z-index: 1000;
-    display: none; /* toggled by JS */
+    display: none; 
     flex-direction: column;
     gap: 4px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
