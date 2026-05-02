@@ -12,7 +12,7 @@ function Book(title, author, pages, date_completed, coverUrl) {
     this.pages = pages;
     this.date_completed = date_completed;
     this.coverUrl = coverUrl || null;
-    this.read = false; // default to unread
+    this.read = false; 
     this.id = crypto.randomUUID();
 }
 
@@ -29,7 +29,7 @@ function createCard(book) {
     card.classList.add('card');
     card.dataset.id = book.id;
 
-    // Status badge (top corner)
+
     const badge = document.createElement('span');
     badge.classList.add('status-badge', book.read ? 'read' : 'unread');
     badge.textContent = book.read ? 'Read' : 'Not Read';
@@ -55,7 +55,6 @@ function createCard(book) {
     date.classList.add('date_completed');
     date.textContent = book.date_completed;
 
-    // Action buttons revealed on hover
     const actions = document.createElement('div');
     actions.classList.add('card-actions');
 
